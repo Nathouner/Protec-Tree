@@ -1,0 +1,5 @@
+﻿- Posséder un ordinateur
+- Avoir un interpréteur Python 3 ou +
+- Avoir le module tkinter d'installé
+- Avoir dans un même dossier le programme "Protec'Tree.py", l'image feu.gif, ainsi que le fichier base-levels.txt
+- Lancer "ProtecTree.py" dans un interpréteur python
